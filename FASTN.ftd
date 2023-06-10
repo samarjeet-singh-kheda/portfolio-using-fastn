@@ -6,6 +6,7 @@ favicon: /-/samarjeet-singh-kheda.github.io/portfolio-using-fastn-in-workshop/fa
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: samarjeet-singh-kheda.github.io/portfolio-using-fastn-in-workshop/FASTN/my-ds
