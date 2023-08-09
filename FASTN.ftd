@@ -1,15 +1,16 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: samarjeet-singh-kheda.github.io/portfolio-using-fastn
+favicon: /-/samarjeet-singh-kheda.github.io/portfolio-using-fastn/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages
 
 -- fastn.auto-import: ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/my-ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: samarjeet-singh-kheda.github.io/portfolio-using-fastn/FASTN/my-ds
+-- fastn.auto-import: samarjeet-singh-kheda.github.io/portfolio-using-fastn/assets
 
 
 -- fastn.sitemap:
