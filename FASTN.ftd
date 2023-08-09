@@ -1,7 +1,7 @@
 -- import: fastn
 
--- fastn.package: samarjeet-singh-kheda.github.io/portfolio-using-fastn-in-workshop
-favicon: /-/samarjeet-singh-kheda.github.io/portfolio-using-fastn-in-workshop/favicon.ico
+-- fastn.package: samarjeet-singh-kheda.github.io/portfolio-using-fastn
+favicon: /-/samarjeet-singh-kheda.github.io/portfolio-using-fastn/favicon.ico
 
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
@@ -9,8 +9,8 @@ favicon: /-/samarjeet-singh-kheda.github.io/portfolio-using-fastn-in-workshop/fa
 -- fastn.dependency: ayushsoni1010.github.io/ui-packages
 
 -- fastn.auto-import: ds
--- fastn.auto-import: samarjeet-singh-kheda.github.io/portfolio-using-fastn-in-workshop/FASTN/my-ds
--- fastn.auto-import: samarjeet-singh-kheda.github.io/portfolio-using-fastn-in-workshop/assets
+-- fastn.auto-import: samarjeet-singh-kheda.github.io/portfolio-using-fastn/FASTN/my-ds
+-- fastn.auto-import: samarjeet-singh-kheda.github.io/portfolio-using-fastn/assets
 
 
 -- fastn.sitemap:
